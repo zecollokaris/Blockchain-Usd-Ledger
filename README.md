@@ -1,5 +1,5 @@
-## Understanding Of The Question
-Given a CSV file of transactions in a crypto wallet, I should print balances of all tokens in USD, leveraging on cryptocompare conversion API.
+## BLOCKCHAIN USD LEDGER
+Given a CSV file at the [data directory](https://raw.githubusercontent.com/Propine/2b-boilerplate/master/data/transactions.csv) of transactions in a crypto wallet, The application should print balances of all tokens in USD, leveraging on cryptocompare conversion API.
 
 ## Problem Breakdown
 
