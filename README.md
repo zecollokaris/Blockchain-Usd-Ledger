@@ -1,5 +1,5 @@
 ## BLOCKCHAIN USD LEDGER
-Given a CSV file at the [data directory](https://raw.githubusercontent.com/zecollokaris/Blockchain-Usd-Ledger/master/data/transactions.csv?token=GHSAT0AAAAAABVAMW2MASPKWGT6YQAICQICYW67ESQ) of transactions in a crypto wallet, The application should print balances of all tokens in USD, leveraging on cryptocompare conversion API.
+Given a CSV file at the [data directory](https://raw.githubusercontent.com/zecollokaris/Blockchain-Usd-Ledger/master/data/transactions.csv) of transactions in a crypto wallet, The application should print balances of all tokens in USD, leveraging on cryptocompare conversion API.
 
 ## Problem Breakdown
 
